@@ -12,4 +12,3 @@ b,,status02,Mode/maxTemp/ReglerCurrentTEMP/maxTemp/ReglerCurrentTemp,,,,02,,,hwm
 b,,status11,,,,,00,,,dcfstate;BCD;BCD;BCD;BCD;BCD;days2;BCD;temp2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 *b,broadcast,,,10,08,B512,,,,,,,,,,,,,,,,,,,,,,,,,
 b,,pumpstate,Vaillant: Pumpenstatus,,,,00,,,pumpstate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-
